@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doneit-007
 - 👀 I’m interested in cricket
-- 🌱 I’m currently learning ds
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Structure and Algorithm
+- 💞️
 - 📫 How to reach me email 
 
 <!---
